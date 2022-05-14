@@ -1,0 +1,4 @@
+{       "ip":"Khota30891.aternos.me",
+        "name":"KhotaReri",
+        "port":"46186"
+}
